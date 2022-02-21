@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @cergen
+- 👀 I’m interested in data analysis, creativity, & music
+- 🌱 I’m currently learning machine learning, & deep learning.
+- 💞️ I’m looking to collaborate on sound processing.
+- 📫 How to reach me can_ergen11@hotmail.com
